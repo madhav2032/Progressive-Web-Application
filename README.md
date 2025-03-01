@@ -22,13 +22,15 @@ Progressive Web Applications (PWAs) are web-based applications that offer users 
 
 1. **Native App-Like Experience**: PWAs provide users with an interface similar to native apps, offering features like push notifications, home screen installation, and offline access. This enhances user interaction and engagement, as users can access the site directly from their home screens without needing to download an app from an app store[1][5].
 
-2. **Offline Functionality**: Users can browse and interact with the site even without an internet connection. This feature is particularly beneficial in areas with poor connectivity, ensuring that customers can continue shopping without interruptions[2][4].
+2. **Offline Functionality**: Users can browse and interact with the site even without an internet connection. This feature is particularly beneficial in areas with poor connectivity, ensuring that customers can continue shopping without interruptions.
 
-3. **Faster Loading Times**: PWAs are designed to load quickly, reducing bounce rates and improving overall user experience. Fast loading times are crucial for e-commerce sites, as slow loading can lead to high abandonment rates[6][7].
+  
 
-4. **Cost-Effective Development**: Developing a PWA is more cost-effective compared to creating separate native apps for different platforms. This unified approach reduces development time and costs, allowing businesses to focus on enhancing their online presence across all devices[3][8].
+4. **Faster Loading Times**: PWAs are designed to load quickly, reducing bounce rates and improving overall user experience. Fast loading times are crucial for e-commerce sites, as slow loading can lead to high abandonment rates[6][7].
 
-5. **Push Notifications**: PWAs enable businesses to send personalized push notifications to users, helping to increase engagement and conversion rates by keeping customers informed about new products, promotions, and updates[1][5].
+5. **Cost-Effective Development**: Developing a PWA is more cost-effective compared to creating separate native apps for different platforms. This unified approach reduces development time and costs, allowing businesses to focus on enhancing their online presence across all devices[3][8].
+
+6. **Push Notifications**: PWAs enable businesses to send personalized push notifications to users, helping to increase engagement and conversion rates by keeping customers informed about new products, promotions, and updates[1][5].
 
 ### Benefits of E-commerce PWAs
 
@@ -50,3 +52,7 @@ Several major brands have successfully implemented PWAs to enhance their e-comme
 
 In conclusion, Progressive Web Applications are transforming the e-commerce landscape by providing businesses with a cost-effective, user-friendly, and highly engaging platform that combines the benefits of both web and native apps. With their ability to enhance customer experience, increase conversion rates, and reduce development costs, PWAs are becoming an essential tool for e-commerce businesses looking to stay competitive in the digital market.
 
+OUTPUT
+![Image](https://github.com/user-attachments/assets/0e58d539-c167-428b-bdd4-ba3394319357)
+
+![Image](https://github.com/user-attachments/assets/ec7dd0f4-f5f1-4a48-9715-0fb9e9442b8d)
